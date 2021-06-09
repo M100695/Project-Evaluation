@@ -1,3 +1,15 @@
+<!--IMPORTANT 
+After Cloning 
+1. update composer    :composer update
+2. install node_modules :npm install
+3. setup database
+4. generate key :php artisan key:generate
+5. link the storage of pictures :php artisan storage:link
+
+
+-->
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">

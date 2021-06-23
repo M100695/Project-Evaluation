@@ -89,7 +89,7 @@
     
     <div class="welcomebackground">
     <h1 style="text-align:center">Simple Blog Website</h1>
-    <p style="text-align:center">This is a Project Evaluation for CoreProc Inc.</p>
+    <p style="text-align:center">This is a simple CRUD Project Evaluation Webiste</p>
     </div>
     
 

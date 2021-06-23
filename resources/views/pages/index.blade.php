@@ -43,7 +43,7 @@
                             <a class="nav-link" href="/home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/posts">Blog</a>
+                            <a class="nav-link" href="/posts">Blogs</a>
                         </li>
                         <!--
                         <li class="nav-item">
@@ -89,7 +89,7 @@
     
     <div class="welcomebackground">
     <h1 style="text-align:center">Simple Blog Website</h1>
-    <p style="text-align:center">This is a simple CRUD Project Evaluation Webiste</p>
+    <p style="text-align:center">This is a simple CRUD Project Evaluation Website. <br>I used a basic create, read, update and delete in laravel and it has the validation of the user.</p>
     </div>
     
 
